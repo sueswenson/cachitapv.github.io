@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+body {
+  background: url("http://i.imgur.com/BaLw2c8.gif");
+  background-repeat: repeat;
+}
+p {
+  color: green;
+  text-align: center;
+}
