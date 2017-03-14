@@ -2,12 +2,37 @@ h1 {
   color: white;
   font-size: 18px;
   text-align: center;
+  background-color: rgba(35,7,61,0.5);
+  padding: 10px;
+}
+
+img {
+  border-color: white;
+  border-width: 3px;
 }
 body {
   background: url("http://i.imgur.com/BaLw2c8.gif");
   background-repeat: repeat;
 }
+
 p {
-  color: green;
+  color: palegreen;
   text-align: center;
+  background-color: rgba(195,131,255,0.7);
+}
+
+h2 {
+  color: palegreen;
+  text-align: center;
+  background-color: rgba(195,131,255,0.7);
+}
+
+li {
+  background-color: rgba(125,139,232,0.7);
+  color: white;
+  font-style: none;
+}
+
+a {
+  font-style: none;
 }
