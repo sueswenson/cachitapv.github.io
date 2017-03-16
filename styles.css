@@ -1,0 +1,47 @@
+body {
+  font-family: helvetica;
+  background-color: #f3f3f3;
+}
+
+h1 {
+  background: #09ca9f;
+  padding: 23px;
+  color: white;
+  margin: 0 auto;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  font-weight: bold;
+
+}
+
+p {
+  padding: 0 25px 20px 25px;
+  text-align: justify;
+
+}
+
+h4 {
+  text-align: center;
+  padding: 10px 25px;
+}
+
+.maui, .aspen {
+  background: #c4defc;
+  padding: 8px 0;
+}
+
+
+.reykjavik {
+  background-color: #c2f2e3;
+  padding: 8px 0;
+  margin: 40px 0;
+}
+
+.container {
+  width: 99%;
+  margin: 0 auto;
+  text-align: center;
+}
